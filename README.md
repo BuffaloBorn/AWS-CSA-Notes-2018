@@ -26,21 +26,18 @@ Generally easier than previous exam. Across 5 different domains.
 
 #### Quicks to each core section
 
-1. Introduction To The Course
-[2. AWS - 10,000 Feet Overview](/1000-ft-overview/
-README.md)
-[3. IAM](/IAM/README.md)
-[4. Object Storage and CDN S3 Glacier Cloudfront](/Object-Storage-and-CDN-S3-Glacier-Cloudfront/
-README.md)
-[5. EC2 - The Backbone of AWS](/EC2/README.md)
-[6. Route53](/Route-53/README.md)
-[7. Databases on AWS](/Databases/README.md)
-[8. VPC](/VPC/README.md)
-[9. Application Services](/Application Services/README.md)
-10.The Real World - Creating a fault tolerant Word Press Site
-[11.The Well Architected Framework](/The-Well-Architected-Framework/
-README.md)
-[12. Additional Exam Tips](/Additional-Exam-Tips/README.md)
+1. [Introduction To The Course](/into-to-course/README.md)
+2. [AWS - 10,000 Feet Overview](/1000-ft-overview/README.md)
+3. [IAM](/IAM/README.md)
+4. [Object Storage and CDN S3 Glacier Cloudfront](/Object-Storage-and-CDN-S3-Glacier-Cloudfront/README.md)
+5. [EC2 - The Backbone of AWS](/EC2/README.md)
+6. [Route53](/Route-53/README.md)
+7. [Databases on AWS](/Databases/README.md)
+8. [VPC](/VPC/README.md)
+9. [Application Services](/Application-Services/README.md)
+10.[The Real World - Creating a fault tolerant Word Press Site](/Real-World/README.md)
+11.[The Well Architected Framework](/The-Well-Architected-Framework/README.md)
+12.[Additional Exam Tips](/Additional-Exam-Tips/README.md)
 
 _Details about this exam:_
 
