@@ -91,3 +91,5 @@ Flow logs can be create at 3 levels:
 - VPC
 - Subnet
 - Network Interface Level
+
+## NAT vs Bastions (Jump boxes)
