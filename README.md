@@ -24,6 +24,10 @@ Generally easier than previous exam. Across 5 different domains.
 | Design Cost-Optimized Architectures           | 10% |
 | Define Operationally-Excellent Architectures  | 6%  |
 
+#### Notes table contents
+
+[1. IAM](/IAM/README.md)
+
 _Details about this exam:_
 
 - 130 minutes in length
