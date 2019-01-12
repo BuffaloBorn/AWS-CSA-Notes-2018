@@ -111,6 +111,17 @@ _TLDR; A disk in the cloud that you attach to your EC2 instances_
 - Magnetic (Standard)
   - Lowest cost per GB of all EBS volume types that is bootable. Magnetic volumes are ideal for workloads where data is accessed infrequently, and applications where the lowest storage cost is important
 
+## Network Interface - ENI
+
+Below are reasons for adding additional network interface to EC2 instance:
+
+Why would you need to do that?
+
+Here is a reason why you may have configure more then one ENI on EC2 instance and you need one interface to handle that data coming in whichh is the actual data traffic and one interface to be allocated for management so you could run management 
+on your VPC and you would like the management traffic to hit on that one while the actual data traffic gets on ethernet zero.
+
+The maximum you can have during the launch is 1 ethernet which is called the primary interface, or eth0.
+
 ## Let's get our hands dirty! Launch an EC2 instance lab!
 
 ### Summary
